@@ -7,7 +7,7 @@
 
 ТГК: https://t.me/WingProject
 
-⛓️CHEAK RELEASES⛓️
+⛓️CHEСK RELEASES⛓️
 
 SHA256: 0e3ab3ab6d85a728a7d1976b5b542eda8f39e9a8061d1b3515db32cd37632b81
 
